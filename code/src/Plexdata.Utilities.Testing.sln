@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plexdata.Utilities.Testing", "Plexdata.Utilities.Testing\Plexdata.Utilities.Testing.csproj", "{884495C1-9D2B-4164-946F-D15E560C55C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A4AED5F-534A-4540-B6F3-16A7A70B5906}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		clean.cmd = clean.cmd
+		HISTORY.md = HISTORY.md
+		post-build.cmd = post-build.cmd
+		README.md = README.md
+		TODOs.md = TODOs.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{884495C1-9D2B-4164-946F-D15E560C55C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884495C1-9D2B-4164-946F-D15E560C55C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{884495C1-9D2B-4164-946F-D15E560C55C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{884495C1-9D2B-4164-946F-D15E560C55C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D1FAAA2-A331-435C-A96B-EDF0FB1B5455}
+	EndGlobalSection
+EndGlobal
